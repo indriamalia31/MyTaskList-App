@@ -3,9 +3,8 @@
 Aplikasi Task Manager sederhana yang dibangun menggunakan **React Native** dan **Expo** dengan sentuhan desain *Soft Pastel Aesthetic*.
 
 ## 👩‍🎓 Identitas Mahasiswa
-* **Nama:** [Isi Nama Kamu]
-* **NIM:** [Isi NIM Kamu]
-* **Prodi:** [Isi Prodi Kamu]
+* **Nama:** Indri Amalia
+* **NIM:** 243303621204
 
 ## 📝 Deskripsi Aplikasi
 MyTaskList App adalah aplikasi pengelola tugas harian yang dirancang untuk membantu produktivitas dengan antarmuka yang bersih dan feminin. Aplikasi ini mengintegrasikan seluruh materi dari P01 hingga P06, mulai dari komponen dasar hingga manajemen list dinamis.
@@ -23,7 +22,7 @@ MyTaskList App adalah aplikasi pengelola tugas harian yang dirancang untuk memba
 
 ## 📸 Screenshots
 > **Wajib:** Lampirkan screenshot aplikasi dari HP fisik kamu di sini.
-![Preview Aplikasi](link_atau_path_foto_kamu.png)
+![Preview Aplikasi](https://github.com/indriamalia31/MyTaskList-App/commit/29013657658b0dd54645f5cc400f328b27dece32#diff-e069a53e9ba31f7235ffcc221cb591f8493779a1241241bd8817243aef536b9b)
 
 ## 🚀 Cara Menjalankan
 1. Clone repository ini.
