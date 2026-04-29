@@ -22,7 +22,7 @@ MyTaskList App adalah aplikasi pengelola tugas harian yang dirancang untuk memba
 
 ## 📸 Screenshots
 > **Wajib:** Lampirkan screenshot aplikasi dari HP fisik kamu di sini.
-![Preview Aplikasi](https://github.com/indriamalia31/MyTaskList-App/commit/29013657658b0dd54645f5cc400f328b27dece32#diff-e069a53e9ba31f7235ffcc221cb591f8493779a1241241bd8817243aef536b9b)
+![Preview Aplikasi](https://github.com/indriamalia31/MyTaskList-App/commit/29013657658b0dd54645f5cc400f328b27dece32)
 
 ## 🚀 Cara Menjalankan
 1. Clone repository ini.
